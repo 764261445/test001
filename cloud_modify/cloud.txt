@@ -47,3 +47,4 @@ GET /index_cloud
         编辑修改：'/instance_type/edit/' + row.id
 
     url: location.href
+111
