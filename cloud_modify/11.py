@@ -11,5 +11,5 @@ ________________________________________________
 """
 
 if __name__ == u'__main__':
-    print 'success'
+    print 'success1'
     pass
